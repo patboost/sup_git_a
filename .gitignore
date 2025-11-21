@@ -3,4 +3,5 @@ var/test.log
 *.xml
 *.env
 *.json
+*.obj
 
