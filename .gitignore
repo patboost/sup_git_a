@@ -4,4 +4,4 @@ var/test.log
 *.env
 *.json
 *.obj
-
+config.ini
