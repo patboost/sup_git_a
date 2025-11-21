@@ -2,4 +2,5 @@ var/test.txt
 var/test.log
 *.xml
 *.env
+*.json
 
